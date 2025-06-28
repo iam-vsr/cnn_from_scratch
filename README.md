@@ -21,13 +21,17 @@ Tested on the MNIST dataset.
 ![sample](/sample_predictions.png)
 
 ## 📁 Structure
-- `cnn_numpy.ipynb` — Full implementation and training
-- `cnn_numpy.py` — (Optional) Script version
-- `assets/` — Sample predictions
+- `cnn_from_scratch.ipynb` — Full implementation and training
+- `maths_notes.md` — Maths behind CNNs
+- `sample_predictions.png` — Sample predictions
 
 ## 🧠 Learnings
 This project offers deep intuition on how CNNs work under the hood, a great foundation before using PyTorch/TensorFlow.
 
 ---
+## 📘 Maths behind CNNs
+See [maths_notes.md](maths_notes.md) for the step-by-step maths behind forward and backward passes.
 
-## 📌 Run this notebook in [Google Colab](https://colab.research.google.com)
+---
+
+## 📌 Run this notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iam-vsr/cnn_from_scratch/blob/main/cnn_from_scratch.ipynb)

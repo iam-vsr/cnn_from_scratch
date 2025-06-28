@@ -18,7 +18,7 @@ Tested on the MNIST dataset.
 - Trained on a small subset for performance
 
 ## 🖼️ Sample Output
-![sample](/sample_predictions.png)
+![sample](Images/cnn_pred.png)
 
 ## 📁 Structure
 - `cnn_from_scratch.ipynb` — Full implementation and training
@@ -35,3 +35,11 @@ See [maths_notes.md](maths_overview.md) for the maths behind forward and backwar
 ---
 
 ## 📌 Run this notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iam-vsr/cnn_from_scratch/blob/main/cnn_from_scratch.ipynb)
+
+---
+
+## 🤝 Connect With Me
+ 
+🔗 [LinkedIn](https://www.linkedin.com/in/vansh-verma-v) • 📂 [GitHub](https://www.github.com/iam-vsr)
+
+---

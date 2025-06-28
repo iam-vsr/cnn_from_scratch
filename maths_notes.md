@@ -53,7 +53,7 @@ Where:
 Each convolution operation produces a **feature map**.
 
 ### Visual Explanation:
-![Convolution GIF](assets/convolution.gif)
+![Convolution GIF](Images/conv2D.gif)
 
 ---
 
@@ -91,7 +91,7 @@ P[i,j] = max(X[i:i+2, j:j+2])
 ```
 
 ### Visual Explanation:
-![Max Pooling GIF](assets/maxpool.gif)
+![Max Pooling GIF](Images/maxpool_animation.gif)
 
 ---
 

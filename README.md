@@ -23,14 +23,14 @@ Tested on the MNIST dataset.
 ## 📁 Structure
 - `cnn_from_scratch.ipynb` — Full implementation and training
 - `maths_notes.md` — Maths behind CNNs
-- `sample_predictions.png` — Sample predictions
+- `Images` — Images
 
 ## 🧠 Learnings
 This project offers deep intuition on how CNNs work under the hood, a great foundation before using PyTorch/TensorFlow.
 
 ---
 ## 📘 Maths behind CNNs
-See [maths_notes.md](maths_notes.md) for the step-by-step maths behind forward and backward passes.
+See [maths_notes.md](maths_overview.md) for the maths behind forward and backward passes.
 
 ---
 

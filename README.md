@@ -18,7 +18,7 @@ Tested on the MNIST dataset.
 - Trained on a small subset for performance
 
 ## 🖼️ Sample Output
-![sample](assets/sample_predictions.png)
+![sample](/sample_prediction.png)
 
 ## 📁 Structure
 - `cnn_numpy.ipynb` — Full implementation and training
